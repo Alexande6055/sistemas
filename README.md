@@ -16,6 +16,12 @@ El proyecto está estructurado de la siguiente manera:
   - `developAlexanderTasinchano`: Acceso solo al directorio `/home/proyecto/usuarios`.
   - `tester`: Acceso solo al directorio `/home/proyecto/logs`.
 
+- **Credenciales de Usuarios:**
+  - Usuario principal o root: `alex`, contraseña: `root`.
+  - Usuario admin: `admin`, contraseña: `admin`.
+  - Usuario tester: `tester`, contraseña: `test`.
+  - Usuario developAlexanderTasinchano: `developAlexanderTasinchano`, contraseña: `alextas`.
+
 ## Instrucciones para Ejecutar Scripts
 Los scripts se encuentran en el directorio `/home/proyecto/scripts`. Antes de ejecutarlos, asegúrate de que tienen permisos de ejecución:
 
